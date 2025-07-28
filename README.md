@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 ¡Hola, soy <strong>Anth'Zz Berrocal</strong> aka <strong>⚡BerMatModZ🔥</strong>!
+  👋 ¡Hola, soy <strong>Anth'Zz Berrocal</strong>  <strong>⚡BerMatModZ🔥</strong>!
 </h1>
 
 <p align="center">
@@ -11,14 +11,14 @@
 
 ## 🚀 Sobre mí
 
-🎯 Soy un desarrollador y hacker apasionado por la tecnología, especializado en:
+🎯 Soy un desarrolladorapasionado por la tecnología, especializado en:
 
 - 🔥 Bots de WhatsApp Inteligentes (`⚡BerMat-Bot MD🔥`, `BerMat_Mods`)
 - 🎮 Juegos interactivos en bots (Tres en Raya, Stickers AI, Juegos IA)
 - 💻 Automatización con Python y Termux
 - 📲 Aplicaciones Android con **AIDE (Java)**
 - 🧠 Inteligencia Artificial y sistemas autónomos
-- 🎭 Simulaciones tipo hacker y ciberseguridad visual
+- 🎭 Hacking y ciberseguridad visual
 
 🛠️ Soy fundador del movimiento **FAMA (Fuerza Anónima de Mentes Avanzadas)** y miembro digital de simulación de Anonymous.
 
@@ -105,9 +105,9 @@
 
 ## 🔒 Disclaimer
 
-Este perfil es parte de una simulación creativa orientada a la ciberseguridad ética, bots, automatización e innovación tecnológica.  
+Este perfil es parte de una  creativa orientada a la ciberseguridad ética, bots, automatización e innovación tecnológica.  
 Todo desarrollo es educativo y no representa actividades reales maliciosas.
 
 ---
 
-<h3 align="center">Hecho con ❤️ por ⚡BerMatModZ🔥</h3>
+<h3 align="center">Hecho  por ⚡BerMatModZ🔥</h3>
