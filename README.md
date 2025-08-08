@@ -1,17 +1,17 @@
 <h1 align="center">
   ╔═══════════════════════════════════════════════╗<br>
-  👋 ¡Hola, soy <strong style="color:black; font-size:30px;">Anth'Zz Berrocal</strong><br>
-  alias <strong style="color:black; font-size:30px;">⚡BerMatModZ🔥</strong>!<br>
+  👋 ¡Hola, soy <strong>Anth'Zz Berrocal</strong><br>
+  alias <strong>⚡BerMatModZ🔥</strong>!<br>
   ╚═══════════════════════════════════════════════╝
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> 
-  <b style="color:black; font-size:22px;">Bienvenid@ a mi mundo de desarrollo, ciberseguridad y tecnología</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>  
+  <strong>Bienvenid@ a mi mundo de desarrollo, ciberseguridad y tecnología</strong>
 </p>
 
 <p align="center">
-  <strong style="color:black; font-size:22px;">
+  <strong>
     ╔════════════════════════════════════════════╗<br>
     🧠 Desarrollador & Programador | 100% autodidacta<br>
     🛠️ Proyectos: WhatsApp-Bots, Webs, Hacking<br>
@@ -22,7 +22,7 @@
   </strong>
 </p>
 
-<h2 align="center" style="color:black; font-size:20px;">
+<h2 align="center">
   ╔═══════🔗 REDES SOCIALES 🔗═══════╗
 </h2>
 
@@ -41,43 +41,46 @@
   </a>
 </p>
 
-<h2 align="center" style="color:black; font-size:20px;">
+<h2 align="center">
   ╔═══════🚀 PROYECTOS DESTACADOS 🚀═══════╗
 </h2>
 
-<ul style="color:black; font-size:18px; list-style-type: '🔥 '; font-weight:bold;">
-  <li>⚡BerMat-Bot MD🔥 - Bot de WhatsApp avanzado con IA y juegos</li>
-  <li>BerMat_Mods - Repositorio con herramientas, scripts y simuladores</li>
-  <li>Clon de WhatsApp Simulado para educación en ciberseguridad</li>
-  <li>Simuladores de hackeo y comandos estilo Anonymous</li>
-  <li>Página web de presentación estilo ciberseguridad profesional</li>
+<ul>
+  <li><strong>⚡BerMat-Bot MD🔥</strong> - Bot de WhatsApp avanzado con IA y juegos</li>
+  <li><strong>BerMat_Mods</strong> - Repositorio con herramientas, scripts</li>
+  <li><strong>Clon de WhatsApp</strong> - para educación en ciberseguridad</li>
+  <li><strong>Interfaz hacking</strong> y comandos estilo Anonymous</li>
+  <li><strong>Página web</strong> de presentación estilo ciberseguridad profesional</li>
 </ul>
 
-<h2 align="center" style="color:black; font-size:20px;">
+<h2 align="center">
   ╔═════💡 FRASE PERSONAL 💡═════╗
 </h2>
 
-<p align="center" style="color:black; font-size:20px;">
+<p align="center">
   🧠 <em>“No nací para ser uno más del montón. Vine a sobresalir, a dejar huella y a demostrar que el conocimiento es poder.”</em><br>
   — <strong>Anth'Zz Berrocal ⚡BerMatModZ🔥</strong>
 </p>
 
-<h2 align="center" style="color:black; font-size:20px;">
+<h2 align="center">
   ╔═════════👨‍💻 SOBRE MÍ 👨‍💻═════════╗
 </h2>
 
-<p align="center" style="color:black; font-size:18px;">
+<p align="center">
   🔰 Alias: <strong>⚡BerMatModZ🔥</strong><br>
   🎓 100% autodidacta, amante del código y la ciberseguridad<br>
-  🧪 Experiencia en bots, interfaces web, seguridad simulada<br>
+  🧪 Experiencia en bots, interfaces web, seguridad<br>
   💪 Físico atlético – mente hacker, corazón de guerrero<br>
   🤖 Siempre creando algo nuevo para el mundo digital
 </p>
 
-<h2 align="center" style="color:black; font-size:20px;">
+<h2 align="center">
   ╔══════════════════════════════════╗<br>
   👽 ¡Gracias por visitar mi perfil!<br>
   👨‍💻 Sigue mis proyectos y únete al movimiento<br>
   🚀 F.A.M.A - Fuerza Anónima de Mentes Avanzadas<br>
   ╚══════════════════════════════════╝
+</h2>
+<h2 align="center">
+  ═══════By:BerMat_MD═══════
 </h2>
