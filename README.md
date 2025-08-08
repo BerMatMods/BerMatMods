@@ -1,114 +1,106 @@
-<h1 align="center">
-  👋 ¡Hola, soy <strong>Anth'Zz Berrocal</strong> alias <strong>⚡BerMatModZ🔥</strong>!
-</h1>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>⚡Anth'Zz Berrocal | BerMatModZ🔥</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background: #0f0f0f;
+      color: #ffffff;
+      font-family: 'Segoe UI', sans-serif;
+      padding: 20px;
+    }
+    h1, h2 {
+      text-align: center;
+      color: #00ffe7;
+      text-shadow: 0 0 5px #00ffe7;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background: #1a1a1a;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 0 25px #00ffe7;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+    .info {
+      background: #121212;
+      border-left: 5px solid #00ffe7;
+      padding: 15px;
+      margin-bottom: 20px;
+    }
+    .social-icons a {
+      display: inline-block;
+      margin: 10px;
+      text-decoration: none;
+      color: #00ffe7;
+      font-weight: bold;
+      font-size: 18px;
+    }
+    .social-icons a:hover {
+      text-shadow: 0 0 10px #00ffe7;
+    }
+  </style>
+</head>
+<body>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=⚡+Desarrollador+de+Bots+IA;🎮+Creador+de+Juegos+WhatsApp;💻+Automatización+y+Termux;&center=true&width=380&height=45&font=Fira%20Code&color=00F7FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
-</p>
+  <div class="container">
+    <h1>⚡BerMatModZ🔥</h1>
+    <h2>Anth'Zz Berrocal</h2>
 
----
+    <div class="info">
+      <p>👾 Soy un joven apasionado por la <strong>tecnología, la ciberseguridad y el desarrollo de bots</strong>. Me especializo en crear proyectos únicos como <strong>WhatsApp Bots personalizados, interfaces simuladas tipo hacking, y herramientas para automatización</strong> en Android usando <strong>Termux, AIDE y más</strong>.</p>
 
-## ​ Sobre mí
+      <p>🧠 También me dedico al desarrollo de contenido interactivo, scripts con inteligencia artificial, animaciones web, y simulaciones visuales llamativas para representar mundos tecnológicos o cibernéticos.</p>
 
-╔════════════════════════════════════════════════════════════════════════════╗  
-║                       🧠 PERFIL DE ANTHZZ BERROCAL                        ║  
-╠════════════════════════════════════════════════════════════════════════════╣  
-║  👤 Nombre completo: AnthZz Berrocal (AnthzZ)                           ║  
-║  ⚡ Alias profesional: BerMatModZ                                        ║  
-║  📍 Ubicación: Andahuaylas – Perú 🇵🇪                                     ║  
-║  🏋️ Físico: Atlético, amante del gimnasio                              ║  
-║  📱 Desde el móvil, construyendo mundos digitales                       ║  
-╚════════════════════════════════════════════════════════════════════════════╝
+      <p>🎯 Mis proyectos buscan siempre tener un impacto visual fuerte, estilo hacker profesional, y una identidad original basada en mi alias <strong>⚡BerMatModZ🔥</strong>.</p>
+    </div>
 
----
+    <div class="info">
+      <h3>📌 Datos Personales</h3>
+      <p><strong>Nombre completo:</strong> Anth'Zz Berrocal</p>
+      <p><strong>Alias:</strong> ⚡BerMatModZ🔥</p>
+      <p><strong>Ubicación:</strong> Andahuaylas, Perú 🇵🇪</p>
+      <p><strong>Edad:</strong> 18 años</p>
+      <p><strong>Físico:</strong> Atlético 💪, fan del gym 🏋️‍♂️</p>
+      <p><strong>Lenguajes:</strong> Python, Java, HTML, CSS, JavaScript, Bash</p>
+    </div>
 
-##  Habilidades Técnicas 
+    <div class="info">
+      <h3>🛠️ Proyectos Destacados</h3>
+      <ul>
+        <li>🤖 <strong>⚡BerMat-Bot MD🔥</strong> – Bot de WhatsApp con IA, stickers, juegos, info personalizada</li>
+        <li>💻 <strong>BerMat_Mods</strong> – Repositorio con scripts para automatización y simulaciones</li>
+        <li>🌀 <strong>Simulador de Clonación de WhatsApp</strong> – Estilo realista y educativo para Termux</li>
+        <li>🎮 <strong>Juego XO y comandos personalizados</strong> para bots en Termux</li>
+        <li>💥 <strong>Anonymous Hack Pro</strong> – Interfaz de iniciación hacker decorada y animada</li>
+      </ul>
+    </div>
 
-╔═════════════════════════════════════════════════════════════════════════════════╗  
-║  Lenguajes de programación: Python, Java, JavaScript, HTML, CSS, Node.js     ║  
-║  Bots de WhatsApp: comandos, juegos, integración IA, stickers                 ║  
-║  IA Conversacional: conexión con APIs, respuestas avanzadas, voz              ║  
-║  Automatización: Termux, scripts custom, clonación y edición simulada         ║  
-║  Juegos interactivos: Tres en Raya (XO), logic–IA con emojis                   ║  
-║  Diseño Web: HTML/CSS animado, estilo oscuro, visual hackers                   ║  
-║  Desarrollo móvil sin PC: usando AIDE                                          ║  
-║  Ciberseguridad ética: conocimiento sólido y estilo visual educativo           ║  
-╚═════════════════════════════════════════════════════════════════════════════════╝
+    <div class="info">
+      <h3>📨 Correos</h3>
+      <p>✉️ Principal: <a href="mailto:berrocalanthony1@gmail.com">berrocalanthony1@gmail.com</a></p>
+      <p>✉️ Secundario: <a href="mailto:antonioberrocal62@gmail.com">antonioberrocal62@gmail.com</a></p>
+    </div>
 
----
+    <div class="info">
+      <h3>🔗 Redes Sociales</h3>
+      <div class="social-icons">
+        🐙 <a href="https://github.com/BerMatMods" target="_blank">GitHub</a><br>
+        📘 <a href="https://facebook.com/share/1B2fUpRczt/" target="_blank">Facebook</a><br>
+        📸 <a href="https://instagram.com/anthz_berrocal" target="_blank">Instagram</a><br>
+        ✈️ <a href="https://t.me/Berrocal_mdz" target="_blank">Telegram</a>
+      </div>
+    </div>
 
-##  Proyectos Destacados
+    <h2>✨ “Bienvenid@ al universo de ⚡BerMatModZ🔥”</h2>
+  </div>
 
-╔════════════════════════════════════════════════════════════════════════════╗  
-║  ⚡ **BerMatMods_Bot**: Bot multifuncional de WhatsApp con comandos, IA, juegos, stickers ║  
-║  🔥 **BerMat‑Bot MD**: Clon personalizado de GataBot‑MD preparado para ti                  ║  
-║  🎮 **XO‑Juego**: Tres en Raya con lógica IA integrado en WhatsApp mediante emojis          ║  
-║  🧠 **BerMat IA**: Bot conversacional avanzado dotado de inteligencia artificial               ║  
-║  🛠️ **Scripts Termux**: Herramientas de simulación visual, edición de chats terminal         ║  
-║  💬 **WhatsSim**: Simulación y clonación de mensajes estilo WhatsApp                         ║  
-║  🌐 **Sitio Web BerMatMods**: Web animada creada en HTML, presentación profesional             ║  
-║  🎭 **Anonymous Visual**: Scripts estéticos estilo hacker y menús animados en terminal         ║  
-║  🤖 **Bots con voz**: Comandos inteligentes con menús estilizados y respuestas IA               ║  
-╚════════════════════════════════════════════════════════════════════════════╝
-
----
-
-##  Presentación & Estilo
-
-╔════════════════════════════════════════════════════════════════════════════╗  
-║  Estilo profesional: fusión entre código, arte y pasión tecnológica        ║  
-║  Creatividad autodidacta con toque visual oscuro e impactante              ║  
-║  Frases propias que inspiran:                                            ║  
-║    • “El conocimiento se entrena, la creatividad se siente”               ║  
-║    • “El arte está en el código que deja huella”                          ║  
-║    • “Desde el móvil, puedo construir mundos digitales”                   ║  
-╚════════════════════════════════════════════════════════════════════════════╝
-
----
-
-##  Redes & Contacto
-
-╔════════════════════════════════════════════════════════════════════════════╗  
-║  ✉️ Correo Principal: berrocalanthony1@gmail.com                           ║  
-║  ✉️ Correo Secundario: antonioberrocal62@gmail.com                         ║  
-║  🐙 GitHub: https://github.com/BerMatMods                                  ║  
-║  📘 Facebook: https://facebook.com/share/1B2fUpRczt/                        ║  
-║  📸 Instagram: https://instagram.com/anthz_berrocal                         ║  
-║  ✈️ Telegram: https://t.me/Berrocal_mdz                                     ║  
-╚════════════════════════════════════════════════════════════════════════════╝
-
----
-
-##  Identidad Visual
-
-╔════════════════════════════════════════════════════════════════════════════╗  
-║  Imagen representativa:                                                    ║  
-║  https://i.postimg.cc/RFKFsKmy/Mag‑Pic‑20250501‑190315228.jpg              ║  
-║  Estilo de bienvenida:                                                      ║  
-║  𝑩𝑬𝑹𝑴𝑨𝑻𝑴𝑶𝑫𝑺  … 𝑪𝑰𝑽𝑬𝑹𝑺𝑬𝑮𝑼𝑹𝑰𝑫𝑨𝑫 👽🤖                                      ║  
-╚════════════════════════════════════════════════════════════════════════════╝
-
----
-
-##  Herramientas que Uso
-
-╔════════════════════════════════════════════════════════════════════════════╗  
-║  Termux | AIDE | Python | Java | Node.js | HTML | CSS | MongoDB | VSCode     ║  
-╚════════════════════════════════════════════════════════════════════════════╝
-
----
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anthzberrocal&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anthzberrocal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-```markdown
-<h3 align="center">
- Creado con visión, estilo y profesionalismo por ⚡BerMatModZ🔥
-</h3>
+</body>
+</html>
