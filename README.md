@@ -17,7 +17,7 @@
     🛠️ Proyectos: WhatsApp-Bots, Webs, Hacking<br>
     🧰 Herramientas: Termux, AIDE, GitHub, APIs, JS, Python<br>
     🖥️ Lenguajes: Java, JS, Python, HTML, CSS, Bash<br>
-    📍 Ubicación: Andahuaylas - Perú<br>
+    📍 Ubicación:  Perú<br>
     ╚═════════════════════════════════╝
   </strong>
 </p>
