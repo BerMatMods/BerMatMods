@@ -62,7 +62,10 @@
   </a>
 </div>
 
----
+---<!-- PORTADA NEÓN -->
+  <img src="https://files.fm/f/b7ntacy35c" alt="Portada BerMatModZ" width="100%" style="border-radius: 12px; border: 3px solid #00ffaa; box-shadow: 0 0 20px rgba(0, 255, 170, 0.4);"/>
+
+  <br>
 
 <!-- PROYECTOS DESTACADOS -->
 <h2 align="center" style="color: #00ffaa;">╔═══════🚀 PROYECTOS DESTACADOS 🚀═══════╗</h2>
