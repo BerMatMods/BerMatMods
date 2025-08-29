@@ -5,43 +5,6 @@
 
   <br>
 
-  <!-- FECHA COMPLETA: ej. jueves 28 de agosto de 2025 -->
-  <div style="background: #000; color: #00ffaa; font-family: 'Courier New', monospace; font-size: 17px; font-weight: bold; padding: 12px 18px; border-radius: 10px; border: 2px solid #00ffaa; box-shadow: 0 0 15px rgba(0, 255, 170, 0.3); width: fit-content; margin: 15px auto;">
-    <span id="fecha-completa" style="color: #00ffff; letter-spacing: 1px;">Cargando fecha...</span>
-  </div>
-
-  <!-- RELOJ EN TIEMPO REAL CON SEGUNDOS -->
-  <div style="background: #001111; color: #00ffff; font-family: 'Courier New', monospace; font-size: 19px; font-weight: bold; padding: 8px 16px; border-radius: 8px; border: 1px solid #00ffff; box-shadow: 0 0 12px rgba(0, 255, 255, 0.2); width: fit-content; margin: 5px auto;">
-    <span id="reloj-actual" style="letter-spacing: 3px;">00:00:00</span>
-  </div>
-
-  <script>
-    // Actualizar fecha completa: jueves 28 de agosto de 2025 (sin duplicar el año)
-    function actualizarFecha() {
-      const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-      const fecha = new Date().toLocaleDateString('es-ES', options);
-      // Capitalizar primera letra y evitar "del del"
-      const fechaFormateada = fecha.charAt(0).toUpperCase() + fecha.slice(1);
-      document.getElementById('fecha-completa').textContent = fechaFormateada;
-    }
-
-    // Actualizar reloj HH:MM:SS
-    function actualizarReloj() {
-      const now = new Date();
-      const h = String(now.getHours()).padStart(2, '0');
-      const m = String(now.getMinutes()).padStart(2, '0');
-      const s = String(now.getSeconds()).padStart(2, '0');
-      document.getElementById('reloj-actual').textContent = `${h}:${m}:${s}`;
-    }
-
-    // Actualizar cada segundo
-    setInterval(() => { actualizarFecha(); actualizarReloj(); }, 1000);
-    actualizarFecha(); // Iniciar ahora
-    actualizarReloj();
-  </script>
-
-  <br>
-
   <!-- TÍTULO PRINCIPAL -->
   <h1 style="color: #00ffff; text-shadow: 0 0 10px #00ffaa, 0 0 20px #00ffff; font-family: 'Courier New', monospace; font-weight: bold;">
     ╔════════════════════════════╗<br>
@@ -51,7 +14,7 @@
   </h1>
 
   <!-- EMOJIS MÓVILES -->
-  <p style="font-size: 26px;">
+  <p style="font-size: 28px; letter-spacing: 8px;">
     <span style="animation: float 3s ease-in-out infinite;">🤖</span>
     <span style="animation: float 4s ease-in-out infinite;">👽</span>
     <span style="animation: float 5s ease-in-out infinite;">🧑‍💻</span>
@@ -105,11 +68,11 @@
 <h2 align="center" style="color: #00ffaa;">╔═══════🚀 PROYECTOS DESTACADOS 🚀═══════╗</h2>
 
 <ul align="center" style="font-family: 'Courier New', monospace;">
-  <li><strong>⚡BerMat-Bot MD🔥</strong> - Bot de WhatsApp avanzado con IA, juegos y comandos de administración</li>
-  <li><strong>BerMat_Mods</strong> - Repositorio con scripts, herramientas y exploits educativos</li>
-  <li><strong>Clon de WhatsApp</strong> - Proyecto educativo en ciberseguridad y análisis de mensajería</li>
-  <li><strong>Interfaz Hacking Anonymous</strong> - Terminal interactiva con efectos visuales estilo hacker</li>
-  <li><strong>Página Web Profesional</strong> - Diseño ciberpunk con dark mode y animaciones sutiles</li>
+  <li>⚡ <strong>🔥BerMat-Bot MD🔥</strong> – Bot de WhatsApp avanzado con IA, juegos y administración</li>
+  <li>📁 <strong>BerMat_Mods</strong> – Repositorio con scripts, herramientas y exploits educativos</li>
+  <li>🔐 <strong>Clon de WhatsApp</strong> – Proyecto educativo en ciberseguridad y análisis de mensajería</li>
+  <li>💻 <strong>Interfaz Hacking Anonymous</strong> – Terminal interactiva con efectos visuales estilo hacker</li>
+  <li>🌐 <strong>Página Web Profesional</strong> – Diseño ciberpunk con dark mode y animaciones sutiles</li>
 </ul>
 
 ---
@@ -117,11 +80,11 @@
 <!-- FRASE PERSONAL -->
 <h2 align="center" style="color: #00ffff;">╔═════💡 FRASE PERSONAL 💡═════╗</h2>
 
-<p align="center" style="font-style: italic; color: #00ffaa; font-family: 'Courier New', monospace; font-size: 16px;">
+<p align="center" style="font-style: italic; color: #00ffaa; font-family: 'Courier New', monospace; font-size: 17px; line-height: 1.6; background: #0e1212; padding: 15px; border-radius: 10px; max-width: 700px; margin: 0 auto;">
   🧠 “No nací para ser uno más del montón. Vine a sobresalir, a dejar huella y a demostrar que el conocimiento es poder.”
 </p>
-<p align="center" style="color: #aaa;">
-  — <strong>Anth'Zz Berrocal ⚡BerMatModZ🔥</strong>
+<p align="center" style="color: #aaa; font-family: 'Courier New', monospace;">
+  — <strong>Anth'Zz Berrocal ⚡BerMatModZ🔥</strong> 🛸
 </p>
 
 ---
@@ -129,12 +92,13 @@
 <!-- SOBRE MÍ -->
 <h2 align="center" style="color: #00ffaa;">╔═════════👨‍💻 SOBRE MÍ 👨‍💻═════════╗</h2>
 
-<p align="center" style="font-family: 'Courier New', monospace;">
+<p align="center" style="font-family: 'Courier New', monospace; color: #00ffaa; background: #000; padding: 18px; border-radius: 10px; max-width: 650px; margin: 15px auto; border: 1px solid #00ffaa;">
   🔰 <strong>Alias:</strong> ⚡BerMatModZ🔥<br>
   🎓 <strong>Formación:</strong> 100% autodidacta<br>
   🧪 <strong>Experiencia:</strong> Bots, ciberseguridad, desarrollo web<br>
   💪 <strong>Mentalidad:</strong> Mente hacker, corazón de guerrero<br>
-  🤖 <strong>Misión:</strong> Crear, innovar y dominar el código
+  🤖 <strong>Misión:</strong> Crear, innovar y dominar el código<br>
+  🌍 <strong>Comunidad:</strong> F.A.M.A – Fuerza Anónima de Mentes Avanzadas 🛸
 </p>
 
 ---
@@ -152,10 +116,10 @@
   ═══════ By: BerMat_MD ═══════
 </h3>
 
-<!-- ANIMACIÓN DE EMOJIS -->
+<!-- ANIMACIONES -->
 <style>
   @keyframes float {
     0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-6px); }
+    50% { transform: translateY(-8px); }
   }
 </style>
