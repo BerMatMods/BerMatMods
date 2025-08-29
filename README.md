@@ -5,7 +5,7 @@
 
   <br>
 
-  <!-- FECHA COMPLETA (ej: jueves 28 de agosto) -->
+  <!-- FECHA COMPLETA (ej: jueves 28 de agosto del 2025) -->
   <div style="background: #000; color: #00ffaa; font-family: 'Courier New', monospace; font-size: 17px; font-weight: bold; padding: 12px; border-radius: 10px; border: 2px solid #00ffaa; box-shadow: 0 0 15px rgba(0, 255, 170, 0.3); width: fit-content; margin: 15px auto; text-align: center;">
     <strong>📅</strong> <span id="fecha-completa" style="color: #00ffff; letter-spacing: 1px;">Cargando fecha...</span>
   </div>
@@ -16,7 +16,7 @@
   </div>
 
   <script>
-    // Actualizar fecha completa: ej. jueves 28 de agosto
+    // Actualizar fecha completa: ej. jueves 28 de agosto del 2025
     function actualizarFecha() {
       const options = { 
         weekday: 'long', 
