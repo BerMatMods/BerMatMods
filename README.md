@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- PORTADA PRINCIPAL -->
-  <img src="https://i.postimg.cc/DZBkRVjx/1756434414.png" alt="Portada BerMatModZ" width="100%" style="border-radius: 10px; border: 3px solid #075E54; box-shadow: 0 0 15px rgba(0, 255, 170, 0.3);"/>
+  <img src="https://i.postimg.cc/QNmYgkwJ/Neon-Photo-Editor-20250828-222959052.png" alt="Portada BerMatModZ" width="100%" style="border-radius: 10px; border: 3px solid #075E54; box-shadow: 0 0 15px rgba(0, 255, 170, 0.3);"/>
 
   <br><br>
 
