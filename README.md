@@ -5,46 +5,38 @@
 
   <br>
 
-  <!-- FECHA COMPLETA (ej: jueves 28 de agosto del 2025) -->
-  <div style="background: #000; color: #00ffaa; font-family: 'Courier New', monospace; font-size: 17px; font-weight: bold; padding: 12px; border-radius: 10px; border: 2px solid #00ffaa; box-shadow: 0 0 15px rgba(0, 255, 170, 0.3); width: fit-content; margin: 15px auto; text-align: center;">
-    <strong>📅</strong> <span id="fecha-completa" style="color: #00ffff; letter-spacing: 1px;">Cargando fecha...</span>
+  <!-- FECHA COMPLETA: ej. jueves 28 de agosto de 2025 -->
+  <div style="background: #000; color: #00ffaa; font-family: 'Courier New', monospace; font-size: 17px; font-weight: bold; padding: 12px 18px; border-radius: 10px; border: 2px solid #00ffaa; box-shadow: 0 0 15px rgba(0, 255, 170, 0.3); width: fit-content; margin: 15px auto;">
+    <span id="fecha-completa" style="color: #00ffff; letter-spacing: 1px;">Cargando fecha...</span>
   </div>
 
-  <!-- RELOJ CON SEGUNDOS (HH:MM:SS) -->
-  <div style="background: #001111; color: #00ffaa; font-family: 'Courier New', monospace; font-size: 19px; font-weight: bold; padding: 10px 18px; border-radius: 8px; border: 1px solid #00ffff; box-shadow: 0 0 12px rgba(0, 255, 255, 0.2); width: fit-content; margin: 5px auto;">
-    ⏰ <span id="reloj-actual" style="color: #00ffff; letter-spacing: 3px;">00:00:00</span>
+  <!-- RELOJ EN TIEMPO REAL CON SEGUNDOS -->
+  <div style="background: #001111; color: #00ffff; font-family: 'Courier New', monospace; font-size: 19px; font-weight: bold; padding: 8px 16px; border-radius: 8px; border: 1px solid #00ffff; box-shadow: 0 0 12px rgba(0, 255, 255, 0.2); width: fit-content; margin: 5px auto;">
+    <span id="reloj-actual" style="letter-spacing: 3px;">00:00:00</span>
   </div>
 
   <script>
-    // Actualizar fecha completa: ej. jueves 28 de agosto del 2025
+    // Actualizar fecha completa: jueves 28 de agosto de 2025 (sin duplicar el año)
     function actualizarFecha() {
-      const options = { 
-        weekday: 'long', 
-        year: 'numeric', 
-        month: 'long', 
-        day: 'numeric' 
-      };
+      const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
       const fecha = new Date().toLocaleDateString('es-ES', options);
-      document.getElementById('fecha-completa').textContent = fecha.charAt(0).toUpperCase() + fecha.slice(1) + ' del ' + new Date().getFullYear();
+      // Capitalizar primera letra y evitar "del del"
+      const fechaFormateada = fecha.charAt(0).toUpperCase() + fecha.slice(1);
+      document.getElementById('fecha-completa').textContent = fechaFormateada;
     }
 
-    // Actualizar reloj con segundos: HH:MM:SS
+    // Actualizar reloj HH:MM:SS
     function actualizarReloj() {
       const now = new Date();
-      const horas = String(now.getHours()).padStart(2, '0');
-      const minutos = String(now.getMinutes()).padStart(2, '0');
-      const segundos = String(now.getSeconds()).padStart(2, '0');
-      document.getElementById('reloj-actual').textContent = `${horas}:${minutos}:${segundos}`;
+      const h = String(now.getHours()).padStart(2, '0');
+      const m = String(now.getMinutes()).padStart(2, '0');
+      const s = String(now.getSeconds()).padStart(2, '0');
+      document.getElementById('reloj-actual').textContent = `${h}:${m}:${s}`;
     }
 
-    // Ejecutar inmediatamente y actualizar cada segundo
-    setInterval(() => {
-      actualizarFecha();
-      actualizarReloj();
-    }, 1000);
-
-    // Iniciar al cargar
-    actualizarFecha();
+    // Actualizar cada segundo
+    setInterval(() => { actualizarFecha(); actualizarReloj(); }, 1000);
+    actualizarFecha(); // Iniciar ahora
     actualizarReloj();
   </script>
 
@@ -82,7 +74,7 @@
     🧰 <strong style="color: #00ffff;">Herramientas:</strong> Termux, AIDE, GitHub, APIs, JS, Python 🐍<br>
     🖥️ <strong style="color: #00ffff;">Lenguajes:</strong> Java ☕, JavaScript, Python, HTML/CSS, Bash 🐧<br>
     🌐 <strong style="color: #00ffff;">Ciberseguridad:</strong> Análisis, Ethical Hacking, Forensics 🔍<br>
-    📍 <strong style="color: #00ffff;">Ubicación:</strong> Perú 🇵🇪 | Zona Horaria: -5 UTC<br>
+    📍 <strong style="color: #00ffff;">Ubicación:</strong> Perú 🇵🇪<br>
     <strong>╚════════════════════════════════════════════════╝</strong>
   </div>
 </div>
@@ -147,61 +139,6 @@
 
 ---
 
-<!-- CONTADOR DE VISITAS -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/BerMatMods/count.svg" alt="Contador de visitas" style="width: 300px; border-radius: 8px; margin: 10px; box-shadow: 0 0 10px rgba(0, 255, 255, 0.3);"/>
-</div>
-
----
-
-<!-- WHATSAPP INFO -->
-<h2 align="center" style="color: #25D366;">╔════════💬 CHAT EN WHATSAPP 💬════════╗</h2>
-
-<div align="center" style="background: #121212; padding: 15px; border-radius: 10px; border: 1px solid #25D366; font-family: 'Courier New', monospace; color: #e0f8ff; max-width: 600px; margin: 0 auto;">
-  <p><strong>Chat on WhatsApp with:</strong> <span style="color: #25D366;">+51 937 556 459</span></p>
-  <hr style="border: 1px dashed #25D366; width: 80%;">
-  <p style="font-size: 13px; line-height: 1.6;">
-    🔐 End-to-end encryption and privacy controls.<br>
-    🌐 Message and call for free* around the world.<br>
-    👥 Group messaging made easy.<br>
-    🎉 Say it with stickers, voice, GIFs and more.<br>
-    🛡️ Layers of protection to help you stay safe.<br>
-    📸 Share photos, videos, voice notes on Status.<br>
-    🔔 Stay updated on topics you care about.<br>
-    ❓ Get help with anything.
-  </p>
-  <a href="https://wa.me/51937556459" target="_blank">
-    <button style="background: #25D366; color: white; border: none; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer;">
-      📱 CHATEAR AHORA
-    </button>
-  </a>
-</div>
-
----
-
-<!-- TELEGRAM INFO -->
-<h2 align="center" style="color: #0088cc;">╔════════📩 CHAT EN TELEGRAM 📩════════╗</h2>
-
-<div align="center" style="background: #0a1a2a; padding: 15px; border-radius: 10px; border: 1px solid #0088cc; font-family: 'Courier New', monospace; color: #cceeff; max-width: 600px; margin: 0 auto;">
-  <p><strong>Conéctate con:</strong> <span style="color: #0088cc;">@BerMatMods</span></p>
-  <hr style="border: 1px dashed #0088cc; width: 80%;">
-  <p style="font-size: 13px; line-height: 1.6;">
-    📥 Chat directo en Telegram<br>
-    📦 Descarga disponible para Mac, Android, iOS<br>
-    🔒 Cifrado de extremo a extremo<br>
-    🤖 Ideal para desarrolladores y comunidades<br>
-    📢 Actualizaciones en tiempo real<br>
-    🧩 Soporte técnico y colaboraciones
-  </p>
-  <a href="https://t.me/BerMatMods" target="_blank">
-    <button style="background: #0088cc; color: white; border: none; padding: 10px 20px; border-radius: 25px; font-weight: bold; cursor: pointer;">
-      📬 ENVIAR MENSAJE
-    </button>
-  </a>
-</div>
-
----
-
 <!-- MENSAJE FINAL -->
 <h2 align="center" style="color: #00ffff;">
   ╔══════════════════════════════════╗<br>
@@ -215,7 +152,7 @@
   ═══════ By: BerMat_MD ═══════
 </h3>
 
-<!-- ANIMACIONES -->
+<!-- ANIMACIÓN DE EMOJIS -->
 <style>
   @keyframes float {
     0%, 100% { transform: translateY(0); }
