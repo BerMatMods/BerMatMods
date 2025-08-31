@@ -1,8 +1,4 @@
 <div align="center">
-  
-  <!-- GIF ANIMADO (PORTADA PRINCIPAL SUPERIOR) -->
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUycTFqMTFzeXRmand5aGNvNjhpMTlyZTltZms3eXQxM2pjN29reTk2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m3lszq64i1k2s/giphy.gif" alt="Portada Animada BerMatModZ" width="100%" style="border-radius: 12px; border: 3px solid #00ffaa; box-shadow: 0 0 20px rgba(0, 255, 170, 0.4);"/>
-
   <br>
 
   <!-- IMAGEN DE PORTADA ORIGINAL (DEBAJO DEL GIF) -->
