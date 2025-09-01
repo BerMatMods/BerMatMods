@@ -9,7 +9,7 @@
   <!-- TÍTULO PRINCIPAL -->
   <h1 style="color: #00ffff; text-shadow: 0 0 10px #00ffaa, 0 0 20px #00ffff; font-family: 'Courier New', monospace; font-weight: bold;">
     ╔════════════════════════════╗<br>
-    👋 ¡HOLA, MUNDO! SOY <strong>Anth'Zz Berrocal</strong><br>
+    👋 ¡HOLA SOY <strong>Anth'Zz Berrocal</strong><br>
     <span style="color: #ff00ff;">⚡BerMatModZ🔥</span><br>
     ╚════════════════════════════╝
   </h1>
@@ -33,7 +33,7 @@
   <!-- INFO TERMINAL -->
   <div style="background: #000; color: #00ffaa; padding: 20px; border-radius: 10px; font-family: 'Courier New', monospace; font-size: 15px; width: 95%; max-width: 750px; border: 2px solid #00ffaa; box-shadow: 0 0 15px rgba(0, 255, 170, 0.2);">
     <strong>╔════════════════════════════════════════════════╗</strong><br>
-    🧠 <strong style="color: #00ffff;">Desarrollador Full Stack</strong> | 100% autodidacta 📚<br>
+    🧠 <strong style="color: #00ffff;">Desarrollador</strong> | Programador 📚<br>
     🛠️ <strong style="color: #00ffff;">Proyectos:</strong> Bots, Hacking ético, IA, Web 🤖<br>
     🧰 <strong style="color: #00ffff;">Herramientas:</strong> Termux, AIDE, GitHub, APIs, JS, Python 🐍<br>
     🖥️ <strong style="color: #00ffff;">Lenguajes:</strong> Java ☕, JavaScript, Python, HTML/CSS, Bash 🐧<br>
@@ -72,8 +72,8 @@
   <li>⚡ <strong>🔥BerMat-Bot MD🔥</strong> – Bot de WhatsApp avanzado con IA, juegos y administración</li>
   <li>📁 <strong>BerMat_Mods</strong> – Repositorio con scripts, herramientas y exploits educativos</li>
   <li>🔐 <strong>Clon de WhatsApp</strong> – Proyecto educativo en ciberseguridad y análisis de mensajería</li>
-  <li>💻 <strong>Interfaz Hacking Anonymous</strong> – Terminal interactiva con efectos visuales estilo hacker</li>
-  <li>🌐 <strong>Página Web Profesional</strong> – Diseño ciberpunk con dark mode y animaciones sutiles</li>
+  <li>💻 <strong>Interfaz Hacking Anonymous</strong> – Terminal de ataques con hacker</li>
+  <li>🌐 <strong>Página Web Profesional</strong> – Diseño de webs romanticos  y animaciones sutiles</li>
 </ul>
 
 ---
@@ -97,7 +97,7 @@
   🔰 <strong>Alias:</strong> ⚡BerMatModZ🔥<br>
   🎓 <strong>Formación:</strong> 100% autodidacta<br>
   🧪 <strong>Experiencia:</strong> Bots, ciberseguridad, desarrollo web<br>
-  💪 <strong>Mentalidad:</strong> Mente hacker, corazón de guerrero<br>
+  💪 <strong>Mentalidad:</strong> Programando la consciencia<br>
   🤖 <strong>Misión:</strong> Crear, innovar y dominar el código<br>
   🌍 <strong>Comunidad:</strong> F.A.M.A – Fuerza Anónima de Mentes Avanzadas 🛸
 </p>
