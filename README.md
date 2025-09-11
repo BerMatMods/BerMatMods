@@ -108,7 +108,7 @@
 <h2 align="center" style="color: #00ffff;">
   ╔══════════════════════════════════╗<br>
   👽 ¡Gracias por visitar mi perfil!<br>
-  👨‍💻 Sigue mis proyectos y únete al movimiento<br>
+  👨‍💻 Sigue mis proyectos y únete al movimiento del mundo Sistematico<br>
   🚀 <strong>F.A.M.A</strong> - Fuerza Anónima de Mentes Avanzadas<br>
   ╚══════════════════════════════════╝
 </h2>
