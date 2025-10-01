@@ -26,7 +26,7 @@
   <!-- BIENVENIDA CON GIF -->
   <p style="font-family: 'Courier New', monospace; font-size: 16px; color: #00ffaa;">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> 
-    <strong>Bienvenid@ al sistema de código infinito y mente hacker</strong>
+    <strong>Bienvenid@ al sistema de código infinito</strong>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
   </p>
 
