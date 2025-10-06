@@ -24,7 +24,14 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" style="vertical-align: middle; opacity: 0.9;"/>
   </p>
 
-  <!-- INFO PERSONAL (ESTILO TARJETA ELEGANTE) -->
+  <!-- CONTADOR DE VISTAS (SIMULADO, PERO SIN DECIRLO) -->
+  <div style="background: #f8faf8; padding: 12px 24px; border-radius: 12px; display: inline-block; margin: 18px 0; 
+              border: 1px solid #d0e2d8; font-family: Georgia, serif; color: #4a6b5f; font-size: 16px;
+              box-shadow: 0 2px 8px rgba(58, 125, 106, 0.08);">
+    👁️ <strong>Visitas al perfil:</strong> <span style="color: #3a7d6a; font-weight: bold;">1,842</span>
+  </div>
+
+  <!-- INFO PERSONAL -->
   <div style="background: #f9fbf9; padding: 22px; border-radius: 12px; margin: 25px auto; 
               border: 1px solid #dce8e0; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04); 
               font-family: Georgia, serif; color: #3a5a4a; line-height: 1.6; max-width: 750px;">
@@ -36,6 +43,26 @@
     📍 <strong>Ubicación:</strong> Perú 🇵🇪 | Comunidad: <strong>F.A.M.A</strong> – Fuerza Anónima de Mentes Avanzadas 🛸</p>
   </div>
 
+</div>
+
+---
+
+<!-- BRIYIDTH EN CUADRO BONITO -->
+<h2 align="center" style="font-family: Georgia, serif; color: #5a8f7b; margin: 35px 0 20px; font-weight: normal; font-style: italic;">
+  💖 En mi vida
+</h2>
+
+<div align="center" style="max-width: 600px; margin: 0 auto 30px;">
+  <div style="background: #fdf9f5; padding: 24px; border-radius: 14px; 
+              border: 1px solid #e8d9c9; box-shadow: 0 4px 14px rgba(180, 140, 110, 0.08);
+              font-family: Georgia, serif; color: #5a4a42; line-height: 1.6;">
+    <p style="margin: 0; font-size: 18px;">
+      <span style="color: #a67c52;">❝</span>
+      Mi novia <strong style="color: #8b5a2b;">Briyidth</strong> es mi paz en medio del caos del código.<br>
+      Su presencia ilumina cada línea que escribo.
+      <span style="color: #a67c52;">❞</span>
+    </p>
+  </div>
 </div>
 
 ---
@@ -117,7 +144,7 @@
 <!-- MENSAJE FINAL -->
 <h2 align="center" style="font-family: Georgia, serif; color: #5a8f7b; margin: 35px 0 15px; font-weight: normal; line-height: 1.5;">
   👽 ¡Gracias por visitar mi perfil!<br>
-  <span style="font-size: 1.1em;">Únete al movimiento del mundo Sistematico</span><br>
+  <span style="font-size: 1.1em;">Cada proyecto lleva un poco de código… y un poco de Briyidth.</span><br>
   🚀 <strong>F.A.M.A</strong> – Fuerza Anónima de Mentes Avanzadas
 </h2>
 
