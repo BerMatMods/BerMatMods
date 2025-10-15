@@ -2,7 +2,7 @@
   <br>
 
   <!-- IMAGEN DE PORTADA ORIGINAL (DEBAJO DEL GIF) -->
-  <img src="https://i.postimg.cc/zD2SXd46/Neon-Photo-Editor-20250828-223612454.png  " alt="Portada Original BerMatModZ" width="100%" style="border-radius: 12px; border: 2px solid #ff00ff; box-shadow: 0 0 15px rgba(255, 0, 255, 0.3);"/>
+  <img src="https://i.postimg.cc/q712wXxS/Neon-Photo-Editor-20250828-223612454.png" alt="Portada Original BerMatModZ" width="100%" style="border-radius: 12px; border: 2px solid #ff00ff; box-shadow: 0 0 15px rgba(255, 0, 255, 0.3);"/>
 
   <br>
 
