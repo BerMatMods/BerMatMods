@@ -1,17 +1,36 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/q712wXxS/Neon-Photo-Editor-20250828-223612454.png" width="100%" style="border-radius:15px;"/>
+<!-- PORTADA -->
+<img src="https://i.postimg.cc/q712wXxS/Neon-Photo-Editor-20250828-223612454.png" width="100%" style="border-radius:15px; box-shadow:0 0 20px #00ffff;"/>
 
-<h1 style="color:#00ffff; font-family:'Courier New', monospace;">
+<br><br>
+
+<!-- TITULO ANIMADO -->
+<h1 style="color:#00ffff; font-family:'Courier New', monospace; text-shadow:0 0 10px #00ffff;">
 ╔════════════════════════════╗<br>
 👋 Hola, soy <strong>Anth'Zz Berrocal</strong><br>
 ⚡ <span style="color:#ff00ff;">BerMatModZ</span> 🔥<br>
 ╚════════════════════════════╝
 </h1>
 
-<p style="font-size:20px;">
-🤖 Desarrollador de Bots • 📲 Desarrollador de WhatsApp Mod • 🧠 Automatización con IA
+<p style="font-size:22px;">
+<span>🤖</span> Bot Developer 
+<span>📲</span> WhatsApp Mod Developer 
+<span>🧠</span> Automation Engineer
 </p>
+
+<br>
+
+<!-- EFECTO SISTEMA -->
+<div style="background:black; color:#00ffaa; padding:15px; border-radius:10px; font-family:Courier New; width:90%; max-width:750px; border:1px solid #00ffaa;">
+💻 <strong>Inicializando sistema...</strong><br>
+🟢 Conectando a servidores...<br>
+🟢 Cargando módulos de Bots...<br>
+🟢 Activando motor de IA...<br>
+🟢 Estado: <strong style="color:#00ff00;">ONLINE</strong> ⚡
+</div>
+
+<br>
 
 </div>
 
@@ -22,48 +41,61 @@
 <div align="center">
 
 ### 🤖 ⚡BerMat-Bot MD🔥
-Bot avanzado de WhatsApp Multi-Device con:
-- Sistema de IA integrada
-- Juegos interactivos (XO, dinámicas grupales)
-- Administración automática de grupos
-- Comandos personalizados con prefijo propio
-- Optimización para Termux y VPS
+━━━━━━━━━━━━━━━━━━━━━━  
+🧠 Integración de Inteligencia Artificial  
+🎮 Juegos interactivos y dinámicas grupales  
+⚙️ Administración automática de grupos  
+📡 Sistema Multi-Device optimizado  
+🔐 Protección y control avanzado  
 
-Proyecto enfocado en automatización, inteligencia conversacional y escalabilidad.
+> Un ecosistema inteligente de automatización para WhatsApp.
 
 ---
 
 ### 📲 WhatsApp Mod Development
-Desarrollo y personalización de WhatsApp Mod con:
-- Mejoras visuales (UI personalizada)
-- Funciones avanzadas desbloqueadas
-- Integración de bots internos
-- Optimización de rendimiento
-- Seguridad y control avanzado
+━━━━━━━━━━━━━━━━━━━━━━  
+🎨 Interfaz personalizada (UI Premium)  
+🚀 Funciones extendidas desbloqueadas  
+🤖 Integración directa con Bots  
+⚡ Optimización de rendimiento  
+🛡️ Seguridad y estabilidad avanzada  
 
-Proyecto orientado a mejorar la experiencia del usuario manteniendo estabilidad.
+> Experiencia WhatsApp mejorada al siguiente nivel.
 
 ---
 
 ### 🔐 Automatización & Seguridad
-- Scripts inteligentes en Python
-- Integración con APIs
-- Sistemas de protección y análisis
-- Simulaciones educativas de ciberseguridad
+━━━━━━━━━━━━━━━━━━━━━━  
+🐍 Scripts inteligentes en Python  
+🌐 Integración con APIs externas  
+📊 Sistemas automatizados de respuesta  
+🧪 Simulaciones educativas de ciberseguridad  
 
 </div>
 
 ---
 
-## 🛠️ STACK PRINCIPAL
+## 🛠️ STACK TECNOLÓGICO
 
-🐍 Python  
-☕ Java (Android - AIDE)  
-🌐 HTML, CSS, JavaScript  
-🐧 Bash & Termux  
-🔗 Git & GitHub  
-🤖 APIs REST  
-🔐 Seguridad y automatización  
+<div align="center">
+
+🐍 Python • ☕ Java • 🌐 HTML • CSS • JS  
+🐧 Bash • Termux • 🔗 GitHub • 🤖 APIs  
+
+</div>
+
+---
+
+## 🌐 NAVEGACIÓN RÁPIDA
+
+<div align="center">
+
+🔎 [ Ver Repositorios ](https://github.com/BerMatMods)  
+📲 [ Contactar por WhatsApp ](https://wa.me/51930569195)  
+📡 [ Canal de Telegram ](https://t.me/BerMatMods)  
+👤 [ Perfil Facebook ](https://www.facebook.com/anthzzberrocal)
+
+</div>
 
 ---
 
@@ -71,19 +103,19 @@ Proyecto orientado a mejorar la experiencia del usuario manteniendo estabilidad.
 
 <div align="center">
 
-<a href="https://github.com/BerMatMods" target="_blank">
+<a href="https://github.com/BerMatMods">
 <img src="https://img.shields.io/badge/GitHub-BerMatMods-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://t.me/BerMatMods" target="_blank">
+<a href="https://t.me/BerMatMods">
 <img src="https://img.shields.io/badge/Telegram-BerMatMods-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/51930569195" target="_blank">
+<a href="https://wa.me/51930569195">
 <img src="https://img.shields.io/badge/WhatsApp-930569195-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/anthzzberrocal" target="_blank">
+<a href="https://www.facebook.com/anthzzberrocal">
 <img src="https://img.shields.io/badge/Facebook-AnthZz_Berrocal-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
@@ -93,15 +125,20 @@ Proyecto orientado a mejorar la experiencia del usuario manteniendo estabilidad.
 
 ## 🧠 FRASE PERSONAL
 
-> "No solo desarrollo bots… creo sistemas inteligentes que automatizan el futuro."
+<div align="center" style="background:#0e1212; padding:15px; border-radius:10px;">
+
+💡 *"No solo desarrollo bots… construyo sistemas que automatizan el futuro."*  
 
 — Anth'Zz Berrocal ⚡BerMatModZ 🔥
+
+</div>
 
 ---
 
 <div align="center">
 
-🚀 Especialista en Bots y WhatsApp Mod  
-🛸 Fundador de F.A.M.A – Fuerza Anónima de Mentes Avanzadas  
+🛸 F.A.M.A – Fuerza Anónima de Mentes Avanzadas  
+⚡ Estado del Perfil: ACTIVO  
+🚀 Modo Desarrollo: ON  
 
 </div>
