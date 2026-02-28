@@ -1,120 +1,181 @@
+
  <div align="center">
+  
+  <!-- ANIMACIONES PERSONALIZADAS -->
+  <style>
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+      100% { transform: translateY(0px); }
+    }
+    @keyframes neon-pulse {
+      0% { text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff; }
+      50% { text-shadow: 0 0 20px #00ffff, 0 0 30px #00ffff, 0 0 40px #00ffff; }
+      100% { text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff; }
+    }
+    .neon-text {
+      animation: neon-pulse 2s infinite alternate;
+    }
+    .card {
+      background: rgba(0, 0, 0, 0.85);
+      border: 1px solid #00ffaa;
+      border-radius: 12px;
+      padding: 20px;
+      margin: 10px auto;
+      max-width: 700px;
+      box-shadow: 0 0 15px rgba(0, 255, 170, 0.2);
+      font-family: 'Courier New', monospace;
+      color: #e0e0e0;
+      text-align: left;
+    }
+    .card-title {
+      color: #00ffff;
+      border-bottom: 1px dashed #00ffaa;
+      padding-bottom: 5px;
+      margin-bottom: 10px;
+      font-weight: bold;
+      display: block;
+    }
+  </style>
+
   <br>
 
-  <!-- IMAGEN DE PORTADA ORIGINAL (DEBAJO DEL GIF) -->
-  <img src="https://i.postimg.cc/q712wXxS/Neon-Photo-Editor-20250828-223612454.png" alt="Portada Original BerMatModZ" width="100%" style="border-radius: 12px; border: 2px solid #ff00ff; box-shadow: 0 0 15px rgba(255, 0, 255, 0.3);"/>
+  <!-- IMAGEN DE PORTADA -->
+  <img src="https://i.postimg.cc/q712wXxS/Neon-Photo-Editor-20250828-223612454.png" 
+       alt="Portada BerMatModZ" 
+       width="100%" 
+       style="border-radius: 12px; border: 2px solid #ff00ff; box-shadow: 0 0 20px rgba(255, 0, 255, 0.4);"/>
 
-  <br>
+  <br><br>
 
   <!-- TÍTULO PRINCIPAL -->
-  <h1 style="color: #00ffff; text-shadow: 0 0 10px #00ffaa, 0 0 20px #00ffff; font-family: 'Courier New', monospace; font-weight: bold;">
-    ╔════════════════════════════╗<br>
-    👋 ¡HOLA SOY <strong>Anth'Zz Berrocal</strong><br>
-    <span style="color: #ff00ff;">⚡BerMatModZ🔥</span><br>
-    ╚════════════════════════════╝
+  <h1 class="neon-text" style="font-family: 'Courier New', monospace; font-size: 2.5em; margin: 0;">
+    👋 HOLAS, SOY <span style="color: #ff00ff;">Anth'Zz Berrocal</span>
   </h1>
+  <h2 style="color: #00ffff; font-family: 'Courier New', monospace; letter-spacing: 2px;">
+    ⚡ BerMatModZ 🔥
+  </h2>
 
-  <!-- EMOJIS MÓVILES -->
-  <p style="font-size: 28px; letter-spacing: 8px;">
-    <span style="animation: float 3s ease-in-out infinite;">🤖</span>
-    <span style="animation: float 4s ease-in-out infinite;">👽</span>
-    <span style="animation: float 5s ease-in-out infinite;">🧑‍💻</span>
-    <span style="animation: float 3.8s ease-in-out infinite;">⚡</span>
-    <span style="animation: float 4.2s ease-in-out infinite;">🔥</span>
+  <!-- EMOJIS FLOTANTES -->
+  <p style="font-size: 32px; margin: 10px 0;">
+    <span style="animation: float 3s ease-in-out infinite; display:inline-block;">🤖</span>
+    <span style="animation: float 4s ease-in-out infinite; display:inline-block;">📱</span>
+    <span style="animation: float 5s ease-in-out infinite; display:inline-block;">🧑‍💻</span>
+    <span style="animation: float 3.5s ease-in-out infinite; display:inline-block;">⚡</span>
+    <span style="animation: float 4.5s ease-in-out infinite; display:inline-block;">🛡️</span>
   </p>
 
-  <!-- BIENVENIDA CON GIF -->
-  <p style="font-family: 'Courier New', monospace; font-size: 16px; color: #00ffaa;">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif  " width="40"/> 
-    <strong>Bienvenid@ al sistema de código infinito</strong>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif  " width="40"/>
-  </p>
+  <!-- ESTADO DEL SISTEMA -->
+  <div style="font-family: 'Courier New', monospace; color: #00ffaa; background: #0d1117; padding: 10px; border-radius: 8px; display: inline-block; border: 1px solid #333;">
+    > System Status: <span style="color: #00ff00;">ONLINE</span> 🟢<br>
+    > Location: <span style="color: #ff00ff;">Peru 🇵🇪</span><br>
+    > Role: <span style="color: #00ffff;">Full Stack Dev & Security Researcher</span>
+  </div>
 
-  <!-- INFO TERMINAL -->
-  <div style="background: #000; color: #00ffaa; padding: 20px; border-radius: 10px; font-family: 'Courier New', monospace; font-size: 15px; width: 95%; max-width: 750px; border: 2px solid #00ffaa; box-shadow: 0 0 15px rgba(0, 255, 170, 0.2);">
-    <strong>╔════════════════════════════════════════════════╗</strong><br>
-    🧠 <strong style="color: #00ffff;">Desarrollador</strong> | Programador 📚<br>
-    🛠️ <strong style="color: #00ffff;">Proyectos:</strong> Bots, Hacking ético, IA, Web 🤖<br>
-    🧰 <strong style="color: #00ffff;">Herramientas:</strong> Termux, AIDE, GitHub, APIs, JS, Python 🐍<br>
-    🖥️ <strong style="color: #00ffff;">Lenguajes:</strong> Java ☕, JavaScript, Python, HTML/CSS, Bash 🐧<br>
-    🌐 <strong style="color: #00ffff;">Ciberseguridad:</strong> Análisis, Ethical Hacking, Forensics 🔍<br>
-    📍 <strong style="color: #00ffff;">Ubicación:</strong> Perú 🇵🇪<br>
-    <strong>╚════════════════════════════════════════════════╝</strong>
+  <br>
+</div>
+
+---
+
+## 🚀 ESPECIALIDADES PRINCIPALES
+
+<div align="center">
+
+### 🤖 DESARROLLADOR DE BOTS AVANZADOS
+Creo automatizaciones inteligentes que potencian la comunicación y la gestión.
+*   **Tecnologías:** Node.js, Baileys, Python, APIs de IA.
+*   **Funciones:** Moderación automática, generación de contenido, juegos interactivos, conexión con bases de datos.
+*   **Proyecto Estrella:** `🔥BerMat-Bot MD🔥` (Bot multi-dispositivo con IA integrada).
+
+### 📱 EXPERTO EN WHATSAPP MODS
+Modificación y optimización de clientes de mensajería para una experiencia superior.
+*   **Enfoque:** Privacidad, personalización UI/UX, funciones ocultas desbloqueadas.
+*   **Seguridad:** Análisis de protocolos, encriptación y parches de seguridad.
+*   **Herramientas:** APKTool, Java, Smali, Git.
+
+</div>
+
+---
+
+## 🛠️ STACK TECNOLÓGICO & HERRAMIENTAS
+
+<div class="card">
+  <span class="card-title">💻 LENGUAJES DE PROGRAMACIÓN</span>
+  <div align="left">
+    <code>JavaScript (ES6+)</code> • <code>Python</code> • <code>Java</code> • <code>Bash/Shell</code> • <code>HTML5/CSS3</code> • <code>SQL</code>
+  </div>
+</div>
+
+<div class="card">
+  <span class="card-title">🔐 CIBERSEGURIDAD & HERRAMIENTAS</span>
+  <div align="left">
+    🛡️ Ethical Hacking • Forensics Digital • Termux • AIDE • Wireshark • Metasploit • Git/GitHub
+  </div>
+</div>
+
+<div class="card">
+  <span class="card-title">🌐 DESARROLLO WEB & API</span>
+  <div align="left">
+    🕸️ Diseño Responsive • Animaciones CSS • Integración de APIs REST • Hosting & Deployment
   </div>
 </div>
 
 ---
 
-<!-- REDES SOCIALES -->
-<h2 align="center" style="color: #00ffaa;">╔═══════🔗 REDES SOCIALES 🔗═══════╗</h2>
+## 🏆 PROYECTOS DESTACADOS
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>🤖 BerMat-Bot MD</strong><br>
+      <small>Bot de WhatsApp con IA y multigrupo</small><br>
+      <a href="https://github.com/BerMatMods"><img src="https://img.shields.io/badge/Ver_Código-000?style=for-the-badge&logo=github"/></a>
+    </td>
+    <td align="center">
+      <strong>📱 WA Mods Personalizados</strong><br>
+      <small>Versiones modificadas con anti-ban y temas</small><br>
+      <a href="https://github.com/BerMatMods"><img src="https://img.shields.io/badge/Explorar-25D366?style=for-the-badge&logo=whatsapp"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>🕵️ Herramientas Hacking</strong><br>
+      <small>Scripts para auditoría y análisis forense</small><br>
+      <a href="https://github.com/BerMatMods"><img src="https://img.shields.io/badge/Repositorio-ff00ff?style=for-the-badge&logo=linux"/></a>
+    </td>
+    <td align="center">
+      <strong>🌐 Webs Interactivas</strong><br>
+      <small>Landing pages con efectos neón y animaciones</small><br>
+      <a href="https://github.com/BerMatMods"><img src="https://img.shields.io/badge/Portafolio-00ffff?style=for-the-badge&logo=html5"/></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💡 FILOSOFÍA DE CÓDIGO
+
+> *"No nací para ser uno más del montón. Vine a sobresalir, a dejar huella y a demostrar que el conocimiento es poder. Programando la consciencia, construyendo el futuro."*
+> 
+> — **Anth'Zz Berrocal | ⚡BerMatModZ🔥**
+
+---
+
+## 📡 CONECTA CON EL SISTEMA
 
 <div align="center">
-  <a href="https://github.com/BerMatMods  " target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-BerMatMods-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="  https://t.me/BerMatMods  " target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-BerMatMods-blue?style=for-the-badge&logo=telegram"/>
-  </a>
-  <a href="  https://wa.me/51937556459  " target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-937556459-25D366?style=for-the-badge&logo=whatsapp"/>
-  </a>
-  <a href="  https://www.facebook.com/anthzzberrocal  " target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-AnthZz_Berrocal-1877F2?style=for-the-badge&logo=facebook"/>
-  </a>
-</div>
-
----
-
-<!-- PROYECTOS DESTACADOS -->
-<h2 align="center" style="color: #00ffaa;">╔═══════🚀 PROYECTOS DESTACADOS 🚀═══════╗</h2>
-
-<ul align="center" style="font-family: 'Courier New', monospace;">
-  <li>⚡ <strong>🔥BerMat-Bot MD🔥</strong> – Bot de WhatsApp avanzado con IA, juegos y administración</li>
-  <li>📁 <strong>BerMat_Mods</strong> – Repositorio con scripts, herramientas y exploits educativos</li>
-  <li>🔐 <strong>Clon de WhatsApp</strong> – Proyecto educativo en ciberseguridad y análisis de mensajería</li>
-  <li>💻 <strong>Interfaz Hacking Anonymous</strong> – Terminal de ataques con hacker</li>
-  <li>🌐 <strong>Página Web Profesional</strong> – Diseño de webs romanticos  y animaciones sutiles</li>
-</ul>
-
----
-
-<!-- FRASE PERSONAL -->
-<h2 align="center" style="color: #00ffff;">╔═════💡 FRASE PERSONAL 💡═════╗</h2>
-
-<p align="center" style="font-style: italic; color: #00ffaa; font-family: 'Courier New', monospace; font-size: 17px; line-height: 1.6; background: #0e1212; padding: 15px; border-radius: 10px; max-width: 700px; margin: 0 auto;">
-  🧠 “No nací para ser uno más del montón. Vine a sobresalir, a dejar huella y a demostrar que el conocimiento es poder.”
-</p>
-<p align="center" style="color: #aaa; font-family: 'Courier New', monospace;">
-  — <strong>Anth'Zz Berrocal ⚡BerMatModZ🔥</strong> 🛸
-</p>
-
----
-
-<!-- SOBRE MÍ -->
-<h2 align="center" style="color: #00ffaa;">╔═════════👨‍💻 SOBRE MÍ 👨‍💻═════════╗</h2>
-
-<p align="center" style="font-family: 'Courier New', monospace; color: #00ffaa; background: #000; padding: 18px; border-radius: 10px; max-width: 650px; margin: 15px auto; border: 1px solid #00ffaa;">
-  🔰 <strong>Alias:</strong> ⚡BerMatModZ🔥<br>
-  🎓 <strong>Formación:</strong> 100% autodidacta<br>
-  🧪 <strong>Experiencia:</strong> Bots, ciberseguridad, desarrollo web<br>
-  💪 <strong>Mentalidad:</strong> Programando la consciencia<br>
-  🤖 <strong>Misión:</strong> Crear, innovar y dominar el código<br>
-  🌍 <strong>Comunidad:</strong> F.A.M.A – Fuerza Anónima de Mentes Avanzadas 🛸
-</p>
-
----
-
-<!-- MENSAJE FINAL -->
-<h2 align="center" style="color: #00ffff;">
-  ╔══════════════════════════════════╗<br>
-  👽 ¡Gracias por visitar mi perfil!<br>
-  👨‍💻 Sigue mis proyectos y únete al movimiento del mundo Sistematico<br>
-  🚀 <strong>F.A.M.A</strong> - Fuerza Anónima de Mentes Avanzadas<br>
-  ╚══════════════════════════════════╝
-</h2>
-
-<h3 align="center" style="color: #aaa; font-style: italic;">
-  ═══════ By: BerMat_MD ═══════
-</h3>
-
   
+  [![GitHub](https://img.shields.io/badge/GitHub-BerMatMods-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BerMatMods)
+  [![Telegram](https://img.shields.io/badge/Telegram-Canal_Oficial-blue?style=for-the-badge&logo=telegram)](https://t.me/BerMatMods)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contacto_Directo-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/51937556459)
+  [![Facebook](https://img.shields.io/badge/Facebook-AnthZz_Berrocal-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/anthzzberrocal)
+
+  <br>
+  
+  <h3 style="color: #00ffaa; font-family: 'Courier New', monospace;">
+    🛸 Únete a <strong>F.A.M.A</strong> - Fuerza Anónima de Mentes Avanzadas
+  </h3>
+  <p style="color: #666; font-size: 12px;">
+    © 2026 BerMat_MD | Todos los derechos reservados en el metaverso.
+  </p>
+</div>
