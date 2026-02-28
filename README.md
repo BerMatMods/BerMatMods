@@ -2,7 +2,7 @@
 
 <img src="https://i.postimg.cc/q712wXxS/Neon-Photo-Editor-20250828-223612454.png" width="100%" style="border-radius:15px;"/>
 
-<h1 style="color:#00ffff; font-family: 'Courier New', monospace;">
+<h1 style="color:#00ffff; font-family:'Courier New', monospace;">
 ╔════════════════════════════╗<br>
 👋 Hola, soy <strong>Anth'Zz Berrocal</strong><br>
 ⚡ <span style="color:#ff00ff;">BerMatModZ</span> 🔥<br>
@@ -10,67 +10,90 @@
 </h1>
 
 <p style="font-size:20px;">
-🤖 Bot Developer | 📲 WhatsApp Mod Developer | 🧠 Automation Engineer
+🤖 Desarrollador de Bots • 📲 Desarrollador de WhatsApp Mod • 🧠 Automatización con IA
 </p>
 
 </div>
 
 ---
 
-## 🚀 SOBRE MÍ
-
-💻 Desarrollador especializado en **Bots de WhatsApp Multi-Device**  
-📲 Creador de sistemas de **WhatsApp Modificado con funciones avanzadas**  
-🧠 Automatización inteligente usando **Python y APIs**  
-🔐 Enfocado en **Ciberseguridad Ética y análisis de sistemas**  
-🌐 Diseñador de páginas web modernas con efectos visuales dinámicos  
-
-🎯 Mentalidad: *Innovar, automatizar y optimizar todo lo posible*
-
----
-
-## 🛠️ STACK TECNOLÓGICO
-
-- 🐍 Python (Automatización & Bots)
-- ☕ Java (Apps Android - AIDE)
-- 🌐 HTML5, CSS3, JavaScript
-- 🐧 Bash & Termux
-- 🔗 Git & GitHub
-- 🤖 APIs REST
-- 🔐 Seguridad y análisis de sistemas
-
----
-
-## 📌 ESPECIALIDADES
-
-⚡ Desarrollo de Bots personalizados  
-⚡ Sistemas de comandos inteligentes  
-⚡ Integración de Inteligencia Artificial en bots  
-⚡ Desarrollo de WhatsApp Modificado (UI + funciones extra)  
-⚡ Simulaciones educativas de ciberseguridad  
-⚡ Automatización de tareas repetitivas  
-
----
-
 ## 🚀 PROYECTOS DESTACADOS
 
-🔥 **⚡BerMat-Bot MD🔥**  
-Bot avanzado con IA, juegos interactivos y administración inteligente.
+<div align="center">
 
-📁 **BerMat_Mods**  
-Repositorio con herramientas educativas y scripts personalizados.
+### 🤖 ⚡BerMat-Bot MD🔥
+Bot avanzado de WhatsApp Multi-Device con:
+- Sistema de IA integrada
+- Juegos interactivos (XO, dinámicas grupales)
+- Administración automática de grupos
+- Comandos personalizados con prefijo propio
+- Optimización para Termux y VPS
 
-📲 **WhatsApp Mod Project**  
-Versión personalizada con mejoras visuales y funciones extendidas.
+Proyecto enfocado en automatización, inteligencia conversacional y escalabilidad.
 
-🌐 **Web Hacker Portfolio**  
-Diseño web profesional con animaciones y estilo cyberpunk.
+---
+
+### 📲 WhatsApp Mod Development
+Desarrollo y personalización de WhatsApp Mod con:
+- Mejoras visuales (UI personalizada)
+- Funciones avanzadas desbloqueadas
+- Integración de bots internos
+- Optimización de rendimiento
+- Seguridad y control avanzado
+
+Proyecto orientado a mejorar la experiencia del usuario manteniendo estabilidad.
+
+---
+
+### 🔐 Automatización & Seguridad
+- Scripts inteligentes en Python
+- Integración con APIs
+- Sistemas de protección y análisis
+- Simulaciones educativas de ciberseguridad
+
+</div>
+
+---
+
+## 🛠️ STACK PRINCIPAL
+
+🐍 Python  
+☕ Java (Android - AIDE)  
+🌐 HTML, CSS, JavaScript  
+🐧 Bash & Termux  
+🔗 Git & GitHub  
+🤖 APIs REST  
+🔐 Seguridad y automatización  
+
+---
+
+## 🔗 REDES SOCIALES
+
+<div align="center">
+
+<a href="https://github.com/BerMatMods" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-BerMatMods-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://t.me/BerMatMods" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-BerMatMods-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/51930569195" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-930569195-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/anthzzberrocal" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-AnthZz_Berrocal-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 ## 🧠 FRASE PERSONAL
 
-> "El código no solo se escribe… se domina."
+> "No solo desarrollo bots… creo sistemas inteligentes que automatizan el futuro."
 
 — Anth'Zz Berrocal ⚡BerMatModZ 🔥
 
@@ -78,10 +101,7 @@ Diseño web profesional con animaciones y estilo cyberpunk.
 
 <div align="center">
 
-### 🔗 CONECTA CONMIGO
-
-[GitHub](https://github.com/BerMatMods) •
-[Telegram](https://t.me/BerMatMods) •
-[WhatsApp](https://wa.me/51937556459)
+🚀 Especialista en Bots y WhatsApp Mod  
+🛸 Fundador de F.A.M.A – Fuerza Anónima de Mentes Avanzadas  
 
 </div>
