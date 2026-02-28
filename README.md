@@ -1,146 +1,138 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/q712wXxS/Neon-Photo-Editor-20250828-223612454.png" width="100%" style="border-radius:15px; box-shadow:0 0 25px #ff6600;"/>
+<!-- PORTADA -->
+<img src="https://i.postimg.cc/q712wXxS/Neon-Photo-Editor-20250828-223612454.png" 
+width="100%" 
+style="border-radius:20px; box-shadow:0 0 30px #00f7ff;"/>
 
 <br><br>
 
-<h1 style="color:#ff6600; font-family:Creepster, 'Courier New', monospace; text-shadow:0 0 15px #ff0000;">
-🎃 ╔════════════════════════════╗ 🎃<br>
-👻 𝕬𝖓𝖙𝖍'𝖅𝖟 𝕭𝖊𝖗𝖗𝖔𝖈𝖆𝖑 👻<br>
-🔥 ⚡𝕭𝖊𝖗𝕸𝖆𝖙𝕸𝖔𝖉𝖅⚡ 🔥<br>
-🎃 ╚════════════════════════════╝ 🎃
+<!-- TITULO CON DEGRADADO -->
+<h1 style="
+font-family: 'Segoe UI', sans-serif;
+font-size: 42px;
+background: linear-gradient(90deg, #00f7ff, #a020f0, #ff00ff);
+-webkit-background-clip: text;
+color: transparent;
+text-shadow: 0 0 20px rgba(0,247,255,0.6);
+">
+✦ 𝑨𝒏𝒕𝒉'𝒁𝒛 𝑩𝒆𝒓𝒓𝒐𝒄𝒂𝒍 ✦  
+<br>
+⚡ 𝑩𝒆𝒓𝑴𝒂𝒕𝑴𝒐𝒅𝒁 ⚡
 </h1>
 
-<p style="font-size:22px;">
-🕷️ 𝕭𝖔𝖙 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗  
-🦇 𝖂𝖍𝖆𝖙𝖘𝕬𝖕𝖕 𝕸𝖔𝖉 𝕯𝖊𝖛  
-👁️ 𝕬𝖚𝖙𝖔𝖒𝖆𝖙𝖎𝖔𝖓 & 𝕴𝕬  
+<p style="font-size:20px; color:#b0f7ff;">
+🤖 Bot Developer • 📲 WhatsApp Mod Developer • 🧠 Automation Engineer
 </p>
 
 </div>
 
 ---
 
-## 🕯️ SISTEMA OSCURO ACTIVADO
+## 🚀 PERFIL PROFESIONAL
 
-<div align="center" style="background:black; color:#ff6600; padding:15px; border-radius:10px; font-family:Courier New; border:1px solid #ff6600; box-shadow:0 0 15px #ff0000;">
+<div align="center" style="
+background: linear-gradient(145deg,#0f0f1a,#1a0033);
+padding:20px;
+border-radius:15px;
+border:1px solid #00f7ff;
+box-shadow:0 0 25px rgba(160,32,240,0.4);
+color:#c8faff;
+font-family:'Segoe UI',sans-serif;
+">
 
-🕸️ Conectando al inframundo digital...<br>
-🕸️ Cargando módulos de Bots...<br>
-🕸️ Activando WhatsApp Mod Engine...<br>
-🕸️ Liberando Inteligencia Artificial...<br>
-🟢 Estado: <strong style="color:#00ff00;">SISTEMA ACTIVO</strong> ⚡
+💻 Desarrollo avanzado de Bots Multi-Device  
+📲 Modificación y personalización profesional de WhatsApp  
+🧠 Automatización inteligente con Python + APIs  
+⚙️ Integración de IA en sistemas conversacionales  
+🔐 Optimización, rendimiento y seguridad  
 
-</div>
-
----
-
-## 🎃 PROYECTOS MALDITAMENTE PODEROSOS
-
-<div align="center">
-
-### 👻 ⚡BerMat-Bot MD🔥
-━━━━━━━━━━━━━━━━━━━━━━  
-🤖 Bot avanzado Multi-Device  
-🧠 IA integrada  
-🎮 Juegos interactivos  
-⚙️ Administración automática  
-🔐 Seguridad avanzada  
-
-> El espíritu que automatiza WhatsApp desde la oscuridad.
-
----
-
-### 🦇 WhatsApp Mod Project
-━━━━━━━━━━━━━━━━━━━━━━  
-🎨 Interfaz personalizada estilo premium  
-🚀 Funciones desbloqueadas  
-🤖 Integración directa con Bots  
-⚡ Rendimiento optimizado  
-🛡️ Control avanzado  
-
-> Una versión evolucionada del mensajero tradicional.
-
----
-
-### 🕷️ Automatización & Scripts
-━━━━━━━━━━━━━━━━━━━━━━  
-🐍 Python inteligente  
-🌐 APIs conectadas  
-📡 Respuestas automáticas  
-🔐 Simulaciones de ciberseguridad  
+🟢 Estado del Sistema: <strong style="color:#00f7ff;">ONLINE</strong>  
+🚀 Modo Desarrollo: <strong style="color:#ff00ff;">ACTIVO</strong>
 
 </div>
 
 ---
 
-## 🩸 STACK DEL INFRAMUNDO
+## 🌐 PROYECTOS DESTACADOS
 
-<div align="center">
+### ⚡ BerMat-Bot MD
+- 🤖 IA integrada
+- 🎮 Juegos interactivos
+- 🛠️ Administración automática
+- 📡 Sistema escalable
+- 🔐 Protección avanzada
 
-🐍 Python 🕷️  
-☕ Java 🦇  
-🌐 HTML • CSS • JS 🎃  
-🐧 Bash & Termux 👻  
-🔗 GitHub ⚡  
+> Ecosistema inteligente de automatización para WhatsApp.
+
+---
+
+### 📲 WhatsApp Mod Project
+- 🎨 Interfaz personalizada
+- 🚀 Funciones extendidas
+- 🤖 Integración con bots
+- ⚡ Rendimiento optimizado
+- 🛡️ Control avanzado
+
+> Experiencia mejorada y profesional del mensajero.
+
+---
+
+### 🧠 Automatización & IA
+- 🐍 Scripts en Python
+- 🌐 Integración con APIs
+- 📊 Sistemas automáticos
+- 🔐 Simulación educativa en ciberseguridad
+
+---
+
+## 🛠️ STACK TECNOLÓGICO
+
+<div align="center" style="font-size:18px;">
+
+🐍 Python • ☕ Java • 🌐 HTML • CSS • JS  
+🐧 Bash • Termux • 🔗 GitHub • 🤖 APIs  
 
 </div>
 
 ---
 
-## 🌕 NAVEGACIÓN EN LA NOCHE
-
-<div align="center">
-
-🕸️ [Explorar Repositorios](https://github.com/BerMatMods)  
-🎃 [Contactar por WhatsApp](https://wa.me/51930569195)  
-🦇 [Canal Telegram](https://t.me/BerMatMods)  
-👁️ [Facebook Oficial](https://www.facebook.com/anthzzberrocal)
-
-</div>
-
----
-
-## 🕷️ REDES SOCIALES
+## 🔗 REDES SOCIALES
 
 <div align="center">
 
 <a href="https://github.com/BerMatMods">
-<img src="https://img.shields.io/badge/GitHub-BerMatMods-000000?style=for-the-badge&logo=github&logoColor=orange"/>
+<img src="https://img.shields.io/badge/GitHub-BerMatMods-0f0f1a?style=for-the-badge&logo=github&logoColor=00f7ff"/>
 </a>
 
 <a href="https://t.me/BerMatMods">
-<img src="https://img.shields.io/badge/Telegram-BerMatMods-1c1c1c?style=for-the-badge&logo=telegram&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Telegram-BerMatMods-1a0033?style=for-the-badge&logo=telegram&logoColor=00f7ff"/>
 </a>
 
 <a href="https://wa.me/51930569195">
-<img src="https://img.shields.io/badge/WhatsApp-930569195-000000?style=for-the-badge&logo=whatsapp&logoColor=orange"/>
+<img src="https://img.shields.io/badge/WhatsApp-930569195-0f0f1a?style=for-the-badge&logo=whatsapp&logoColor=ff00ff"/>
 </a>
 
 <a href="https://www.facebook.com/anthzzberrocal">
-<img src="https://img.shields.io/badge/Facebook-AnthZz_Berrocal-1c1c1c?style=for-the-badge&logo=facebook&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Facebook-AnthZz_Berrocal-1a0033?style=for-the-badge&logo=facebook&logoColor=00f7ff"/>
 </a>
 
 </div>
 
 ---
 
-## 🩸 FRASE PROHIBIDA
+## 💎 FRASE PERSONAL
 
-<div align="center" style="background:#0e0e0e; padding:15px; border-radius:10px; border:1px solid #ff6600;">
+<div align="center" style="
+background:#0f0f1a;
+padding:15px;
+border-radius:15px;
+border:1px solid #a020f0;
+color:#e0ccff;
+">
 
-🧛 *"No todos temen a la oscuridad… algunos la programamos."*  
+✨ "El código no solo se escribe… se diseña, se optimiza y se domina." ✨  
 
-⚡ Anth'Zz Berrocal – BerMatModZ 🔥
-
-</div>
-
----
-
-<div align="center">
-
-🎃 Modo Oscuro: ACTIVADO  
-👻 Sistema: VIGILANDO  
-🦇 Estado: DESARROLLANDO  
+⚡ Anth'Zz Berrocal – BerMatModZ
 
 </div>
