@@ -1,135 +1,137 @@
 <div align="center">
 
-<!-- PORTADA -->
-<img src="https://i.postimg.cc/q712wXxS/Neon-Photo-Editor-20250828-223612454.png" width="100%" style="border-radius:15px; box-shadow:0 0 20px #00ffff;"/>
+<img src="https://i.postimg.cc/q712wXxS/Neon-Photo-Editor-20250828-223612454.png" width="100%" style="border-radius:15px; box-shadow:0 0 25px #ff6600;"/>
 
 <br><br>
 
-<!-- TITULO ANIMADO -->
-<h1 style="color:#00ffff; font-family:'Courier New', monospace; text-shadow:0 0 10px #00ffff;">
-╔════════════════════════════╗<br>
-👋 Hola, soy <strong>Anth'Zz Berrocal</strong><br>
-⚡ <span style="color:#ff00ff;">BerMatModZ</span> 🔥<br>
-╚════════════════════════════╝
+<h1 style="color:#ff6600; font-family:Creepster, 'Courier New', monospace; text-shadow:0 0 15px #ff0000;">
+🎃 ╔════════════════════════════╗ 🎃<br>
+👻 𝕬𝖓𝖙𝖍'𝖅𝖟 𝕭𝖊𝖗𝖗𝖔𝖈𝖆𝖑 👻<br>
+🔥 ⚡𝕭𝖊𝖗𝕸𝖆𝖙𝕸𝖔𝖉𝖅⚡ 🔥<br>
+🎃 ╚════════════════════════════╝ 🎃
 </h1>
 
 <p style="font-size:22px;">
-<span>🤖</span> Bot Developer 
-<span>📲</span> WhatsApp Mod Developer 
-<span>🧠</span> Automation Engineer
+🕷️ 𝕭𝖔𝖙 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗  
+🦇 𝖂𝖍𝖆𝖙𝖘𝕬𝖕𝖕 𝕸𝖔𝖉 𝕯𝖊𝖛  
+👁️ 𝕬𝖚𝖙𝖔𝖒𝖆𝖙𝖎𝖔𝖓 & 𝕴𝕬  
 </p>
 
-<br>
-
-<!-- EFECTO SISTEMA -->
-<div style="background:black; color:#00ffaa; padding:15px; border-radius:10px; font-family:Courier New; width:90%; max-width:750px; border:1px solid #00ffaa;">
-💻 <strong>Inicializando sistema...</strong><br>
-🟢 Conectando a servidores...<br>
-🟢 Cargando módulos de Bots...<br>
-🟢 Activando motor de IA...<br>
-🟢 Estado: <strong style="color:#00ff00;">ONLINE</strong> ⚡
 </div>
 
-<br>
+---
+
+## 🕯️ SISTEMA OSCURO ACTIVADO
+
+<div align="center" style="background:black; color:#ff6600; padding:15px; border-radius:10px; font-family:Courier New; border:1px solid #ff6600; box-shadow:0 0 15px #ff0000;">
+
+🕸️ Conectando al inframundo digital...<br>
+🕸️ Cargando módulos de Bots...<br>
+🕸️ Activando WhatsApp Mod Engine...<br>
+🕸️ Liberando Inteligencia Artificial...<br>
+🟢 Estado: <strong style="color:#00ff00;">SISTEMA ACTIVO</strong> ⚡
 
 </div>
 
 ---
 
-## 🚀 PROYECTOS DESTACADOS
+## 🎃 PROYECTOS MALDITAMENTE PODEROSOS
 
 <div align="center">
 
-### 🤖 ⚡BerMat-Bot MD🔥
+### 👻 ⚡BerMat-Bot MD🔥
 ━━━━━━━━━━━━━━━━━━━━━━  
-🧠 Integración de Inteligencia Artificial  
-🎮 Juegos interactivos y dinámicas grupales  
-⚙️ Administración automática de grupos  
-📡 Sistema Multi-Device optimizado  
-🔐 Protección y control avanzado  
+🤖 Bot avanzado Multi-Device  
+🧠 IA integrada  
+🎮 Juegos interactivos  
+⚙️ Administración automática  
+🔐 Seguridad avanzada  
 
-> Un ecosistema inteligente de automatización para WhatsApp.
+> El espíritu que automatiza WhatsApp desde la oscuridad.
 
 ---
 
-### 📲 WhatsApp Mod Development
+### 🦇 WhatsApp Mod Project
 ━━━━━━━━━━━━━━━━━━━━━━  
-🎨 Interfaz personalizada (UI Premium)  
-🚀 Funciones extendidas desbloqueadas  
+🎨 Interfaz personalizada estilo premium  
+🚀 Funciones desbloqueadas  
 🤖 Integración directa con Bots  
-⚡ Optimización de rendimiento  
-🛡️ Seguridad y estabilidad avanzada  
+⚡ Rendimiento optimizado  
+🛡️ Control avanzado  
 
-> Experiencia WhatsApp mejorada al siguiente nivel.
+> Una versión evolucionada del mensajero tradicional.
 
 ---
 
-### 🔐 Automatización & Seguridad
+### 🕷️ Automatización & Scripts
 ━━━━━━━━━━━━━━━━━━━━━━  
-🐍 Scripts inteligentes en Python  
-🌐 Integración con APIs externas  
-📊 Sistemas automatizados de respuesta  
-🧪 Simulaciones educativas de ciberseguridad  
+🐍 Python inteligente  
+🌐 APIs conectadas  
+📡 Respuestas automáticas  
+🔐 Simulaciones de ciberseguridad  
 
 </div>
 
 ---
 
-## 🛠️ STACK TECNOLÓGICO
+## 🩸 STACK DEL INFRAMUNDO
 
 <div align="center">
 
-🐍 Python • ☕ Java • 🌐 HTML • CSS • JS  
-🐧 Bash • Termux • 🔗 GitHub • 🤖 APIs  
+🐍 Python 🕷️  
+☕ Java 🦇  
+🌐 HTML • CSS • JS 🎃  
+🐧 Bash & Termux 👻  
+🔗 GitHub ⚡  
 
 </div>
 
 ---
 
-## 🌐 NAVEGACIÓN RÁPIDA
+## 🌕 NAVEGACIÓN EN LA NOCHE
 
 <div align="center">
 
-🔎 [ Ver Repositorios ](https://github.com/BerMatMods)  
-📲 [ Contactar por WhatsApp ](https://wa.me/51930569195)  
-📡 [ Canal de Telegram ](https://t.me/BerMatMods)  
-👤 [ Perfil Facebook ](https://www.facebook.com/anthzzberrocal)
+🕸️ [Explorar Repositorios](https://github.com/BerMatMods)  
+🎃 [Contactar por WhatsApp](https://wa.me/51930569195)  
+🦇 [Canal Telegram](https://t.me/BerMatMods)  
+👁️ [Facebook Oficial](https://www.facebook.com/anthzzberrocal)
 
 </div>
 
 ---
 
-## 🔗 REDES SOCIALES
+## 🕷️ REDES SOCIALES
 
 <div align="center">
 
 <a href="https://github.com/BerMatMods">
-<img src="https://img.shields.io/badge/GitHub-BerMatMods-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-BerMatMods-000000?style=for-the-badge&logo=github&logoColor=orange"/>
 </a>
 
 <a href="https://t.me/BerMatMods">
-<img src="https://img.shields.io/badge/Telegram-BerMatMods-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-BerMatMods-1c1c1c?style=for-the-badge&logo=telegram&logoColor=orange"/>
 </a>
 
 <a href="https://wa.me/51930569195">
-<img src="https://img.shields.io/badge/WhatsApp-930569195-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-930569195-000000?style=for-the-badge&logo=whatsapp&logoColor=orange"/>
 </a>
 
 <a href="https://www.facebook.com/anthzzberrocal">
-<img src="https://img.shields.io/badge/Facebook-AnthZz_Berrocal-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-AnthZz_Berrocal-1c1c1c?style=for-the-badge&logo=facebook&logoColor=orange"/>
 </a>
 
 </div>
 
 ---
 
-## 🧠 FRASE PERSONAL
+## 🩸 FRASE PROHIBIDA
 
-<div align="center" style="background:#0e1212; padding:15px; border-radius:10px;">
+<div align="center" style="background:#0e0e0e; padding:15px; border-radius:10px; border:1px solid #ff6600;">
 
-💡 *"No solo desarrollo bots… construyo sistemas que automatizan el futuro."*  
+🧛 *"No todos temen a la oscuridad… algunos la programamos."*  
 
-— Anth'Zz Berrocal ⚡BerMatModZ 🔥
+⚡ Anth'Zz Berrocal – BerMatModZ 🔥
 
 </div>
 
@@ -137,8 +139,8 @@
 
 <div align="center">
 
-🛸 F.A.M.A – Fuerza Anónima de Mentes Avanzadas  
-⚡ Estado del Perfil: ACTIVO  
-🚀 Modo Desarrollo: ON  
+🎃 Modo Oscuro: ACTIVADO  
+👻 Sistema: VIGILANDO  
+🦇 Estado: DESARROLLANDO  
 
 </div>
