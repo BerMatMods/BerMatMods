@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- PORTADA -->
-<img src="https://i.postimg.cc/q712wXxS/Neon-Photo-Editor-20250828-223612454.png" 
+<img src="https://i.postimg.cc/rw1XfGjF/1760073116-(1).png " 
 width="100%" 
 style="border-radius:20px; box-shadow:0 0 30px #00f7ff;"/>
 
@@ -58,7 +58,7 @@ font-family:'Segoe UI',sans-serif;
 
 ### ⚡ BerMat-Bot MD
 - 🤖 IA integrada
-- 🎮 Juegos interactivos
+- 🎮 WhatsApp Mod
 - 🛠️ Administración automática
 - 📡 Sistema escalable
 - 🔐 Protección avanzada
